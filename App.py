@@ -38,7 +38,7 @@ uploaded_file = st.file_uploader("Upload a tomato leaf image...", type=["jpg", "
 
 if uploaded_file:
     img, img_array = preprocess_image(uploaded_file)
-    st.image(img, caption="Uploaded Image", use_column_width=True)
+    st.image(img, caption="Uploaded Image",use_container_width=True)
     predicted_class, confidence = predict_image(model, img_array)
 
     st.markdown(f"### 🧠 Prediction: `{predicted_class}`")
