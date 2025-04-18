@@ -27,18 +27,4 @@ The model is built using TensorFlow/Keras and predicts the class of the uploaded
 - `requirements.txt` : List of Python dependencies
 - `README.md` : Project documentation
 
-## 📝 Example
 
-![Example](example.png)
-
-## 📦 Requirements
-
-See `requirements.txt` for dependencies.
-
-## 📬 Contact
-
-For any queries, reach out at [your-email@example.com]
-
----
-
-*Built with ❤️ using Streamlit and TensorFlow*
