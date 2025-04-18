@@ -27,4 +27,6 @@ The model is built using TensorFlow/Keras and predicts the class of the uploaded
 - `requirements.txt` : List of Python dependencies
 - `README.md` : Project documentation
 
+## 🔗 Deployed Link
 
+👉 https://tomatoleafdiseaseclassifier-and7ynifg3iurnzpmtscps.streamlit.app/
