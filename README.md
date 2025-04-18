@@ -10,7 +10,7 @@ The model is built using TensorFlow/Keras and predicts the class of the uploaded
 
 ## 🔧 Features
 
-- Upload a tomato leaf image (`.jpg`, `.jpeg`, or `.png`)
+- Upload a tomato leaf image (JPG,PNG)
 - Automatically classifies the disease using a pre-trained CNN model (`tomatos.h5`)
 - Displays the prediction and confidence score
 
