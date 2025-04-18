@@ -1,5 +1,5 @@
 
-# 🍅 Tomato Leaf Disease Classifier
+# 🍅 Tomato Leaf Disease Classifier 🍅
 
 This Streamlit web app allows users to classify tomato leaf images into one of the following categories:
 - Early Blight
